@@ -1,0 +1,1 @@
+# javaScript-forEach-salaries
