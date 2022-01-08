@@ -27,7 +27,7 @@ Schreibe nun ein leeres Array mit dem Namen salary2022.
 ## Aufgabenstellung - Teil 3
 Durchlaufe dein Array salary2021 mit einer forEach-Schleife.
 
-In jedem Durchlauf musst du das jeweilige Gehalt um 4 Prozent erhöhen und dass in das Array salary2022 pushen.
+In jedem Durchlauf musst du das jeweilige Gehalt um 4 Prozent erhöhen und in das Array salary2022 pushen.
 
 ## Aufgabenstellung - Teil 4
 Schreibe beide Arrays in der Konsole aus. Haben sich die Gehälter von 2021 zu 2022 erhöht?
