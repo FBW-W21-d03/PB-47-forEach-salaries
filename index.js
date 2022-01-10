@@ -24,6 +24,3 @@ salary2021.forEach((salary) => {
 
   console.log(salary2022);
 });
-
-console.log(salary2021);
-console.log(salary2022);
