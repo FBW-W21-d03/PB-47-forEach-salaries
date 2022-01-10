@@ -10,5 +10,6 @@ salary2021.forEach (
            
     }
 );
+let results = salary2022.join();
 
-console.log("Salary for 2022 ist", salary2022);
+console.log("Salary for 2022 ist", results);
